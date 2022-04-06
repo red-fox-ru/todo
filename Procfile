@@ -1,0 +1,1 @@
+web: gunicorn challenger_backend_app.wsgi --log-file -
